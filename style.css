@@ -265,7 +265,7 @@ body {
 
 @media screen and (min-width: 992px) {
     .hero-content .entry-header h2 {
-        font-size: 172px;
+        font-size: 112px;
     }
 
     .hero-content .entry-header .entry-meta-date {
@@ -293,7 +293,7 @@ body {
     font-size: 72px;
     font-weight: 600;
     line-height: 1;
-    color: hsl(0, 0%, 100%);
+    color: hsl(56, 96%, 51%);
 }
 
 .countdown-holder label {

@@ -232,7 +232,7 @@ body {
 -----------------------------------------------------------*/
 .hero-content {
     padding: 450px 0;
-    background: url("images/wBANNER6X4.jpg") no-repeat;
+    background: url("images/main2.jpg") no-repeat;
     background-size:cover;
     
 }
@@ -332,8 +332,8 @@ body {
     min-height: 4640px;
     width: 100%;
     padding-bottom: 120px;
-    background: url("images/middle-cover.jpg") no-repeat;
-    background-size: 100% auto;
+    background: url("images/main.jpg") no-repeat;
+    background-size: cover;
 }
 
 .content-section .middle-cover {
@@ -358,14 +358,14 @@ body {
     padding: 0;
     font-size: 14px;
     font-weight: 600;
-    color: hsl(0, 0%, 48%);
+    color: hsl(0, 0%, 100%);
 }
 
 .lineup-artists-headline .entry-title h2 {
     width: 100%;
     font-size: 48px;
     font-weight: 600;
-    color: hsl(0, 0%, 0%);
+    color:hsl(0, 0%, 100%);
 }
 
 /*------------------------------------------------------------
@@ -491,7 +491,7 @@ body {
     padding: 0;
     font-size: 14px;
     font-weight: 600;
-    color: hsl(0, 0%, 48%);
+    color: hsl(0, 0%, 68%);
 }
 
 .the-complete-lineup .entry-title h2 {
@@ -499,7 +499,7 @@ body {
     margin: 0;
     font-size: 48px;
     font-weight: 600;
-    color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
 }
 
 /*------------------------------------------------------------
@@ -546,7 +546,7 @@ body {
     margin-top: 38px;
     font-size: 24px;
     font-weight: 600;
-    color: hsl(0, 0%, 2%);
+    color: hsl(61, 94%, 49%);
     text-align: center;
 }
 
@@ -632,7 +632,7 @@ body {
     margin: 0;
     font-size: 48px;
     font-weight: 600;
-    color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
 }
 
 /*------------------------------------------------------------
@@ -725,7 +725,7 @@ body {
     padding: 0;
     font-size: 14px;
     font-weight: 600;
-    color: hsl(0, 0%, 48%);
+    color: hsl(0, 0%, 68%);
 }
 
 .home-page-last-news .entry-title h2 {
@@ -733,7 +733,7 @@ body {
     margin: 0;
     font-size: 48px;
     font-weight: 600;
-    color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
 }
 
 /*------------------------------------------------------------

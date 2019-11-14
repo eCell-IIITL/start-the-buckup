@@ -226,12 +226,24 @@ body {
         color: #fff;
     }
 }
+/* sponsers */
+.title-sponser{
+    padding-top: 20px;
+}
+.spons{
+    
+}
+.allSponser{
+    margin: auto;
+}
+
+
 
 /*------------------------------------------------------------
 # hero
 -----------------------------------------------------------*/
 .hero-content {
-    padding: 450px 0;
+    padding: 250px 0;
     background: url("images/main2.jpg") no-repeat;
     background-size:cover;
     
@@ -609,7 +621,7 @@ body {
 .see-complete-lineup .entry-footer a {
     font-size: 14px;
     font-weight: 600;
-    color: hsl(0, 0%, 100%);
+    color: hsl(0, 0%, 0%);
 }
 
 /*------------------------------------------------------------

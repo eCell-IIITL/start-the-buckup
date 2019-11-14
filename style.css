@@ -241,6 +241,31 @@ text-align: center;
     text-align: center;
 }
 
+@media screen and (max-width: 575px){
+    .sponsor-img{
+        width:150px !important ;
+        height: 100px !important;
+    }
+    .main-spn{
+        width: 250px !important;
+        height: 100px !important;
+        padding-top: 40px !important;
+    }
+    .spons{
+        text-align: center !important;
+    }
+}
+.main-spn{
+    width: 450px;
+    height: 150px;
+    padding-top:40px;
+}
+.sponsor-img{
+    width: 350px;
+    height: 150px;
+    padding-top: 40px;
+
+}
 
 
 /*------------------------------------------------------------

@@ -227,14 +227,18 @@ body {
     }
 }
 /* sponsers */
-.title-sponser{
-    padding-top: 20px;
+.title-sponser h2{
+    padding-top: 40px;
+    font-weight: bold;
+    color:yellow;
+
 }
 .spons{
-    
+text-align: center;
 }
 .allSponser{
-    margin: auto;
+    margin:auto;
+    text-align: center;
 }
 
 

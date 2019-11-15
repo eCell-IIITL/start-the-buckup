@@ -286,8 +286,8 @@ text-align: center;
 .hero-content .entry-header h2 {
     padding: 50px;
     margin: 0;
-    font-family: mountains;
-    font-size:120px;
+    font-family: Star Jedi;
+    font-size:70px !important;
     background: -webkit-linear-gradient(#00d0ff, #25ffbf);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -400,13 +400,18 @@ text-align: center;
     font-size: 14px;
     font-weight: 600;
     color: hsl(0, 0%, 100%);
+    
 }
 
 .lineup-artists-headline .entry-title h2 {
     width: 100%;
     font-size: 48px;
-    font-weight: 600;
-    color:hsl(0, 0%, 100%);
+    font-family: Star Jedi;
+    font-weight: 10;
+    /* color:hsl(0, 0%, 100%); */
+    background: -webkit-linear-gradient(#00d0ff, #25ffbf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 /*------------------------------------------------------------
@@ -540,7 +545,11 @@ text-align: center;
     margin: 0;
     font-size: 48px;
     font-weight: 600;
-    color: hsl(0, 0%, 100%);
+    font-family: Star Jedi;
+    /* color: hsl(0, 0%, 100%); */
+    background: -webkit-linear-gradient(#00d0ff, #25ffbf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 /*------------------------------------------------------------
@@ -672,8 +681,12 @@ text-align: center;
     width: 100%;
     margin: 0;
     font-size: 48px;
+    font-family: Star Jedi;
     font-weight: 600;
-    color: hsl(0, 0%, 100%);
+    /* color: hsl(0, 0%, 100%); */
+    background: -webkit-linear-gradient(#00d0ff, #25ffbf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 /*------------------------------------------------------------
@@ -773,8 +786,11 @@ text-align: center;
     width: 100%;
     margin: 0;
     font-size: 48px;
+    font-family: Star Jedi;
     font-weight: 600;
-    color: hsl(0, 0%, 100%);
+    background: -webkit-linear-gradient(#00d0ff, #25ffbf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 /*------------------------------------------------------------
@@ -882,7 +898,11 @@ text-align: center;
     line-height: 1;
     margin-bottom: 0;
     text-align: center;
-    color: hsl(0, 0%, 100%);
+    font-family: Star Jedi;
+    /* color: hsl(0, 0%, 100%); */
+    background: -webkit-linear-gradient(#00d0ff, #25ffbf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;   
     mix-blend-mode: overlay;
     z-index: 2;
 }
@@ -913,7 +933,11 @@ text-align: center;
 .footer-content-wrapper .entry-title a {
     font-size: 52px;
     font-weight: 700;
-    color: hsl(0, 0%, 100%);
+    font-family: Star Jedi;
+    /* color: hsl(0, 0%, 100%); */
+    background: -webkit-linear-gradient(#00d0ff, #25ffbf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     line-height: 1;
     text-decoration: none;
 }

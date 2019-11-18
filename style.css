@@ -286,8 +286,8 @@ text-align: center;
 .hero-content .entry-header h2 {
     padding: 50px;
     margin: 0;
-    font-family: Star Jedi;
-    font-size:70px !important;
+    font-family: 'mountains';
+    font-size:100px !important;
     background: -webkit-linear-gradient(#00d0ff, #25ffbf);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -297,9 +297,9 @@ text-align: center;
     position: absolute;
     width: 100%;
     top: 20px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 24px;
-    font-weight: 500;
+    font-weight: 600;
     color: hsl(0, 0%, 90%);
     text-align: center;
 }
@@ -406,7 +406,7 @@ text-align: center;
 .lineup-artists-headline .entry-title h2 {
     width: 100%;
     font-size: 48px;
-    font-family: Star Jedi;
+    font-family: 'Courier New', Courier, monospace;
     font-weight: 10;
     /* color:hsl(0, 0%, 100%); */
     background: -webkit-linear-gradient(#00d0ff, #25ffbf);
@@ -545,7 +545,7 @@ text-align: center;
     margin: 0;
     font-size: 48px;
     font-weight: 600;
-    font-family: Star Jedi;
+    font-family: 'Courier New', Courier, monospace;
     /* color: hsl(0, 0%, 100%); */
     background: -webkit-linear-gradient(#00d0ff, #25ffbf);
     -webkit-background-clip: text;
@@ -681,7 +681,7 @@ text-align: center;
     width: 100%;
     margin: 0;
     font-size: 48px;
-    font-family: Star Jedi;
+    font-family:'Courier New', Courier, monospace;
     font-weight: 600;
     /* color: hsl(0, 0%, 100%); */
     background: -webkit-linear-gradient(#00d0ff, #25ffbf);
@@ -786,7 +786,7 @@ text-align: center;
     width: 100%;
     margin: 0;
     font-size: 48px;
-    font-family: Star Jedi;
+    font-family: 'Courier New', Courier, monospace;
     font-weight: 600;
     background: -webkit-linear-gradient(#00d0ff, #25ffbf);
     -webkit-background-clip: text;
@@ -898,7 +898,7 @@ text-align: center;
     line-height: 1;
     margin-bottom: 0;
     text-align: center;
-    font-family: Star Jedi;
+    font-family: 'Courier New', Courier, monospace;
     /* color: hsl(0, 0%, 100%); */
     background: -webkit-linear-gradient(#00d0ff, #25ffbf);
     -webkit-background-clip: text;
@@ -933,7 +933,7 @@ text-align: center;
 .footer-content-wrapper .entry-title a {
     font-size: 52px;
     font-weight: 700;
-    font-family: Star Jedi;
+    font-family: mountain;
     /* color: hsl(0, 0%, 100%); */
     background: -webkit-linear-gradient(#00d0ff, #25ffbf);
     -webkit-background-clip: text;

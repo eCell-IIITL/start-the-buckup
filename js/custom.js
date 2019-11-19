@@ -16,6 +16,13 @@
         $('.dmin').html(event.strftime('%-M'));
         $('.dsec').html(event.strftime('%-S'));
     });
+    // navbar
+
+    $( '.navbar').on( 'click', function() {
+        $(this).removeClass('open');
+        $('.hamburger-menu').removeClass('open')
+        $('.site-navigation').removeClass('show');
+    });
 
     // Events Slider
     var next_event_slider = new Swiper('.next-event-slider', {

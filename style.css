@@ -158,7 +158,7 @@ body {
     top: 0;
     left: -320px;
     z-index: 9999;
-    width: 320px;
+    width: 270px;
     height: 100vh;
     overflow-x: scroll;
     padding: 30px;
@@ -255,6 +255,7 @@ text-align: center;
         text-align: center !important;
     }
 }
+
 .main-spn{
     width: 450px;
     height: 150px;

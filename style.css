@@ -226,6 +226,14 @@ body {
         color: #fff;
     }
 }
+
+.event_date{
+     display: block ; text-align: center;
+     color: yellow; 
+     font-family: mountains; 
+     font-weight: bold ;
+}
+
 /* sponsers */
 .title-sponser h2{
     padding-top: 40px;
@@ -349,7 +357,7 @@ text-align: center;
 ## hero-content entry-footer
 ------------------------------------------------------------*/
 .hero-content .entry-footer {
-    margin-top: 25px;
+    padding-top: 125px;
     text-align: center;
 }
 
